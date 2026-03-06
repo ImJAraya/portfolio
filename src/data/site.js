@@ -111,7 +111,7 @@ export const siteData = {
         'Experiencia unificada de contenido educativo con arquitectura preparada para iterar y ampliar módulos por materia.',
       stack: ['React', 'Vite', 'React Router', 'Netlify Functions', 'YouTube Data API'],
       repoUrl: 'https://github.com/ImJAraya/Pag_profesor_ciencias',
-      demoUrl: 'https://aprendamosjuntoscr.netlify.app/',
+      demoUrl: 'https://recursosciencias.netlify.app/',
       featured: true,
       priority: 3
     }
