@@ -101,8 +101,8 @@ export const siteData = {
       priority: 2
     },
     {
-      name: 'Aprendamos Juntos CR',
-      subtitle: 'Plataforma educativa en React',
+      name: 'Recursos Ciencias',
+      subtitle: 'Página de recursos del profesor',
       problem:
         'Docentes y estudiantes requerían centralizar material, prácticas y playlists educativas en un solo flujo web.',
       solution:
@@ -114,6 +114,21 @@ export const siteData = {
       demoUrl: 'https://recursosciencias.netlify.app/',
       featured: true,
       priority: 3
+    },
+    {
+      name: 'Aprendamos Juntos CR',
+      subtitle: 'Landing para lecciones privadas bimodales',
+      problem:
+        'Se requería una página clara y de alta conversión para captar estudiantes en modalidad presencial y virtual.',
+      solution:
+        'Desarrollo con Astro 5 y enfoque mobile-first, centralizando contenido del negocio para facilitar mantenimiento y actualización.',
+      impact:
+        'Landing rápida y optimizada para despliegue estático en Netlify con estructura SEO base y navegación directa a recursos clave.',
+      stack: ['Astro 5', 'HTML5', 'CSS3', 'Mobile-first', 'Netlify', 'SEO técnico'],
+      repoUrl: 'https://github.com/ImJAraya/Aprendamosjuntoscr',
+      demoUrl: 'https://aprendamosjuntoscr.netlify.app/',
+      featured: true,
+      priority: 4
     }
   ],
   skills: [
